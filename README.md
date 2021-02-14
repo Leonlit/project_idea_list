@@ -40,6 +40,7 @@ my list on side project ideas that I can make.
 - [ ] NASA app
 - [ ] Novel recommendation app
 - [ ] Simple social media app
+- [ ] Family budget app
 
 ## Challenge
 - [ ] overthewire
