@@ -24,6 +24,7 @@ my list on side project ideas that I can make.
 
 ## Web/desktop/mobile App
 
+- [ ] portfolio
 - [x] covid-19 tracker app
 - [x] assignment manager app
 - [ ] todo list 
