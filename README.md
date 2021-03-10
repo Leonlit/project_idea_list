@@ -38,6 +38,7 @@ my list on side project ideas that I can make.
 - [ ] shopping app
 - [ ] finance management app
 - [ ] recepi app
+- [ ] currency converter app
 - [ ] NASA app
 - [ ] Novel recommendation app
 - [ ] Simple social media app
