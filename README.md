@@ -40,6 +40,7 @@ List of project ideas that I'm interested to create.
 - [ ] Finance management app
 - [ ] Recepi app
 - [ ] Whiteboard app
+- [ ] URL shortener
 - [x] Currency converter app
 - [ ] NASA app
 - [ ] Novel recommendation app
@@ -63,7 +64,7 @@ List of project ideas that I'm interested to create.
 - [ ] Connected device monitor
 - [ ] Route tracing app
 
-## chat Bot
+## Bot
 - [ ] Discord + github webhook bot
 - [ ] Twitter bot
 - [ ] Telegram bot
