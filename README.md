@@ -1,5 +1,5 @@
 # project_idea_list
-my list on side project ideas that I can make.
+List of project ideas that I'm interested to create.
 
 
 ## Game
@@ -21,6 +21,7 @@ my list on side project ideas that I can make.
 - [ ] City management game
 - [ ] zombie survival rpg
 - [ ] puzzle game
+- [ ] FPS game
 
 ## Web/desktop/mobile App
 
@@ -38,7 +39,7 @@ my list on side project ideas that I can make.
 - [ ] shopping app
 - [ ] finance management app
 - [ ] recepi app
-- [ ] currency converter app
+- [x] currency converter app
 - [ ] NASA app
 - [ ] Novel recommendation app
 - [ ] Simple social media app
