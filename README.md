@@ -9,61 +9,63 @@ List of project ideas that I'm interested to create.
 - [ ] Tetris
 - [ ] Blackjack
 - [ ] slot machine
-- [ ] sudoku
-- [ ] high low
-- [ ] space invader
-- [ ] mine sweeper
-- [ ] simple rpg game
-- [ ] simple platformer
-- [ ] google dinasour game
-- [ ] rock, paper, scissor game with Machine Learning
+- [ ] Sudoku
+- [ ] High low
+- [ ] Space invader
+- [ ] Mine sweeper
+- [ ] Simple rpg game
+- [ ] Simple platformer
+- [ ] Google dinasour game
+- [ ] Rock, paper, scissor game with Machine Learning
 - [ ] Top-down shooter
 - [ ] City management game
-- [ ] zombie survival rpg
-- [ ] puzzle game
+- [ ] Zombie survival rpg
+- [ ] Puzzle game
 - [ ] FPS game
 
 ## Web/desktop/mobile App
 
-- [ ] portfolio
-- [x] covid-19 tracker app
-- [x] assignment manager app
-- [ ] todo list 
-- [x] reminder app
+- [ ] Portfolio
+- [x] Covid-19 tracker app
+- [x] Assignment manager app
+- [ ] Todo list 
+- [x] Reminder app
 - [x] Weather app
 - [ ] News app
-- [ ] cryptocurrency app
+- [ ] Cryptocurrency app
 - [x] RSS reader
 - [x] Music app
-- [ ] food recommendation app
-- [ ] shopping app
-- [ ] finance management app
-- [ ] recepi app
-- [ ] whiteboard app
-- [x] currency converter app
+- [ ] Food recommendation app
+- [ ] Shopping app
+- [ ] Finance management app
+- [ ] Recepi app
+- [ ] Whiteboard app
+- [x] Currency converter app
 - [ ] NASA app
 - [ ] Novel recommendation app
 - [ ] Simple social media app
 - [ ] Family budget app
 
 ## Challenge
-- [ ] overthewire
-- [ ] euler project
-- [ ] hackerrank
-- [ ] hackerone
-- [ ] tryhackme
-- [ ] hackthebox
+- [ ] Overthewire
+- [ ] Euler project
+- [ ] Hackerrank
+- [ ] Hackerone
+- [ ] Tryhackme
+- [ ] Hackthebox
 
 ## Networking projects
-- [ ] ip port scanner
-- [ ] FTP server
-- [ ] wifi monitor 
-- [ ] traffic monitor
-- [ ] connected device monitor
-- [ ] route tracing app
+- [ ] Ip port scanner
+- [ ] Antivirus 
+- [ ] FTP server & client
+- [ ] Wifi bandwidth monitor 
+- [ ] Network traffic monitor
+- [ ] Connected device monitor
+- [ ] Route tracing app
 
 ## chat Bot
-- [ ] discord + github webhook
-- [ ] twitter bot
-- [ ] telegram bot
-- [ ] trading bot
+- [ ] Discord + github webhook bot
+- [ ] Twitter bot
+- [ ] Telegram bot
+- [ ] Trading bot
+- [ ] Personal utility bot
