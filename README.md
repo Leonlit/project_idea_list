@@ -57,6 +57,9 @@ List of project ideas that I'm interested to create.
 
 ## Networking projects
 - [ ] Ip port scanner
+- [x] Network Scanner
+- [ ] Iptables utility tools
+- [ ] System logging monitors
 - [ ] Antivirus 
 - [ ] FTP server & client
 - [ ] Wifi bandwidth monitor 
