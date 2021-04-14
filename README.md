@@ -38,7 +38,7 @@ List of project ideas that I'm interested to create.
 - [ ] Food recommendation app
 - [ ] Shopping app
 - [ ] Finance management app
-- [ ] Recepi app
+- [ ] Recipe app
 - [ ] Whiteboard app
 - [ ] URL shortener
 - [x] Currency converter app
@@ -46,6 +46,7 @@ List of project ideas that I'm interested to create.
 - [ ] Novel recommendation app
 - [ ] Simple social media app
 - [ ] Family budget app
+- [ ] Image upload app
 
 ## Challenge
 - [ ] Overthewire
@@ -65,7 +66,8 @@ List of project ideas that I'm interested to create.
 - [ ] Wifi bandwidth monitor 
 - [ ] Network traffic monitor
 - [ ] Connected device monitor
-- [ ] Route tracing app
+- [x] Route tracing app
+- [ ] Keylogger
 
 ## Bot
 - [ ] Discord + github webhook bot
