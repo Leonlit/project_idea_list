@@ -1,5 +1,5 @@
 # project_idea_list
-List of project ideas that I'm interested to create.
+List of project ideas that I think is quite interesting to build.
 
 
 ## Game
@@ -15,7 +15,8 @@ List of project ideas that I'm interested to create.
 - [ ] Mine sweeper
 - [ ] Simple rpg game
 - [ ] Simple platformer
-- [ ] Google dinasour game
+- [ ] Google dinosaur game
+- [ ] Typing speed game
 - [ ] Rock, paper, scissor game with Machine Learning
 - [ ] Top-down shooter
 - [ ] City management game
@@ -43,10 +44,13 @@ List of project ideas that I'm interested to create.
 - [ ] URL shortener
 - [x] Currency converter app
 - [ ] NASA app
+- [ ] Library management app
+- [ ] School Management app
 - [ ] Novel recommendation app
 - [ ] Simple social media app
 - [ ] Family budget app
 - [ ] Image upload app
+- [ ] Pomodoro app
 
 ## Challenge
 - [ ] Overthewire
@@ -68,6 +72,7 @@ List of project ideas that I'm interested to create.
 - [ ] Connected device monitor
 - [x] Route tracing app
 - [ ] Keylogger
+- [ ] Network Dashboard
 
 ## Bot
 - [ ] Discord + github webhook bot
