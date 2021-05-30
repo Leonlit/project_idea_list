@@ -7,6 +7,7 @@ List of project ideas that I think is quite interesting to build.
 - [x] Tic Tac Toe
 - [x] Snake
 - [ ] Tetris
+- [ ] chess game
 - [ ] Blackjack
 - [ ] slot machine
 - [ ] Sudoku
@@ -29,7 +30,7 @@ List of project ideas that I think is quite interesting to build.
 - [ ] Portfolio
 - [x] Covid-19 tracker app
 - [x] Assignment manager app
-- [ ] Todo list 
+- [ ] Todo list
 - [x] Reminder app
 - [x] Weather app
 - [ ] News app
@@ -38,7 +39,7 @@ List of project ideas that I think is quite interesting to build.
 - [x] Music app
 - [ ] Food recommendation app
 - [ ] Shopping app
-- [ ] Finance management app
+- [ ] Financial management app
 - [ ] Recipe app
 - [ ] Whiteboard app
 - [ ] URL shortener
@@ -51,6 +52,9 @@ List of project ideas that I think is quite interesting to build.
 - [ ] Family budget app
 - [ ] Image upload app
 - [ ] Pomodoro app
+- [ ] Exercise Tracker app
+- [ ] Sleep Tracker app
+- [ ] 
 
 ## Challenge
 - [ ] Overthewire
@@ -73,6 +77,9 @@ List of project ideas that I think is quite interesting to build.
 - [x] Route tracing app
 - [ ] Keylogger
 - [ ] Network Dashboard
+
+## AI Project
+ - [ ] Expression analyser
 
 ## Bot
 - [ ] Discord + github webhook bot
