@@ -54,7 +54,6 @@ List of project ideas that I think is quite interesting to build.
 - [ ] Pomodoro app
 - [ ] Exercise Tracker app
 - [ ] Sleep Tracker app
-- [ ] 
 
 ## Challenge
 - [ ] Overthewire
