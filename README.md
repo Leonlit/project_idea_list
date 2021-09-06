@@ -1,5 +1,5 @@
 # project_idea_list
-List of project ideas that I think is quite interesting to build.
+List of project that I plan to create/interested to make.
 
 
 ## Game
@@ -54,6 +54,7 @@ List of project ideas that I think is quite interesting to build.
 - [ ] Pomodoro app
 - [ ] Exercise Tracker app
 - [ ] Sleep Tracker app
+- [ ] Restaurant management app
 
 ## Challenge
 - [ ] Overthewire
@@ -63,22 +64,21 @@ List of project ideas that I think is quite interesting to build.
 - [ ] Tryhackme
 - [ ] Hackthebox
 
-## Networking projects
-- [ ] Ip port scanner
+## Networking & Computer Security projects
+- [x] Ip port scanner
 - [x] Network Scanner
 - [ ] Iptables utility tools
 - [ ] System logging monitors
-- [ ] Antivirus 
+- [ ] Simple Antivirus 
 - [ ] FTP server & client
-- [ ] Wifi bandwidth monitor 
+- [x] Wifi bandwidth monitor 
 - [ ] Network traffic monitor
-- [ ] Connected device monitor
 - [x] Route tracing app
 - [ ] Keylogger
 - [ ] Network Dashboard
 
 ## AI Project
- - [ ] Expression analyser
+- [ ] Expression analyser
 
 ## Bot
 - [ ] Discord + github webhook bot
@@ -86,3 +86,11 @@ List of project ideas that I think is quite interesting to build.
 - [ ] Telegram bot
 - [ ] Trading bot
 - [ ] Personal utility bot
+
+## IT skills
+- [ ] Setting up a active directory
+- [ ] Setting up an firewall
+- [ ] Setting up an DNS server
+- [ ] Setting up an production cloud Server
+- [ ] Setting up a VPN on an VPS
+- [ ] Automated firewall
