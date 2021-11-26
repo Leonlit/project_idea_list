@@ -27,7 +27,7 @@ List of project that I plan to create/interested to make.
 
 ## Web/desktop/mobile App
 
-- [ ] Portfolio
+- [x] Portfolio
 - [x] Covid-19 tracker app
 - [x] Assignment manager app
 - [ ] Todo list
