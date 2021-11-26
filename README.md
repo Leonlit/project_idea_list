@@ -91,6 +91,7 @@ List of project that I plan to create/interested to make.
 - [ ] Setting up a active directory
 - [ ] Setting up an firewall
 - [ ] Setting up an DNS server
-- [ ] Setting up an production cloud Server
+- [x] Setting up an production cloud Server
 - [ ] Setting up a VPN on an VPS
 - [ ] Automated firewall
+- [ ] Setting up IDS and IPS
