@@ -30,13 +30,15 @@ List of project that I plan to create/interested to make.
 - [x] Portfolio
 - [x] Covid-19 tracker app
 - [x] Assignment manager app
-- [ ] Todo list
+- [ ] Todo list app
 - [x] Reminder app
 - [x] Weather app
-- [ ] News app
+- [x] News app
 - [ ] Cryptocurrency app
+- [ ] Stock dashboard app
 - [x] RSS reader
 - [x] Music app
+- [ ] Music streaming app
 - [ ] Food recommendation app
 - [ ] Shopping app
 - [ ] Financial management app
@@ -49,12 +51,15 @@ List of project that I plan to create/interested to make.
 - [ ] School Management app
 - [ ] Novel recommendation app
 - [ ] Simple social media app
+- [ ] Time Management app
+- [ ] Note taking app
 - [ ] Family budget app
-- [ ] Image upload app
+- [ ] File Sharing app
 - [ ] Pomodoro app
 - [ ] Exercise Tracker app
 - [ ] Sleep Tracker app
 - [ ] Restaurant management app
+- [ ] A wiki app
 
 ## Challenge
 - [ ] Overthewire
@@ -79,6 +84,12 @@ List of project that I plan to create/interested to make.
 
 ## AI Project
 - [ ] Expression analyser
+- [ ] Food recognizer
+- [ ] Sentiment analysis
+- [ ] Stock prediction
+- [ ] Cryptocurrency prediction
+- [ ] Weather prediction app
+- [ ] Human Age prediction from picture
 
 ## Bot
 - [ ] Discord + github webhook bot
@@ -86,6 +97,7 @@ List of project that I plan to create/interested to make.
 - [ ] Telegram bot
 - [ ] Trading bot
 - [ ] Personal utility bot
+- [ ] Slack bot
 
 ## IT skills
 - [ ] Setting up a active directory
@@ -94,4 +106,5 @@ List of project that I plan to create/interested to make.
 - [x] Setting up an production cloud Server
 - [ ] Setting up a VPN on an VPS
 - [ ] Automated firewall
-- [ ] Setting up IDS and IPS
+- [x] Setting up IDS and IPS
+- [ ] Setting up an email server
