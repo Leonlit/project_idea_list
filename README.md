@@ -77,10 +77,13 @@ List of project that I plan to create/interested to make.
 - [ ] Simple Antivirus 
 - [ ] FTP server & client
 - [x] Wifi bandwidth monitor 
-- [ ] Network traffic monitor
+- [ ] Computer resource monitor
 - [x] Route tracing app
 - [ ] Keylogger
 - [ ] Network Dashboard
+- [ ] Image Steganography (+encryption)
+- [ ] C2 Server & agent
+- [ ] 
 
 ## AI Project
 - [ ] Expression analyser
@@ -105,6 +108,6 @@ List of project that I plan to create/interested to make.
 - [ ] Setting up an DNS server
 - [x] Setting up an production cloud Server
 - [ ] Setting up a VPN on an VPS
-- [ ] Automated firewall
-- [x] Setting up IDS and IPS
+- [x] Automated firewall
+- [x] Setting up an IDS and an IPS
 - [ ] Setting up an email server
