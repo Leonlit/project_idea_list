@@ -18,12 +18,12 @@ List of project that I plan to create/interested to make.
 - [ ] Simple platformer
 - [ ] Google dinosaur game
 - [ ] Typing speed game
-- [ ] Rock, paper, scissor game with Machine Learning
 - [ ] Top-down shooter
 - [ ] City management game
 - [ ] Zombie survival rpg
 - [ ] Puzzle game
 - [ ] FPS game
+- [ ] Item Matcher game
 
 ## Web/desktop/mobile App
 
@@ -41,7 +41,7 @@ List of project that I plan to create/interested to make.
 - [ ] Music streaming app
 - [ ] Food recommendation app
 - [ ] Shopping app
-- [ ] Financial management app
+- [ ] Finance management app
 - [ ] Recipe app
 - [ ] Whiteboard app
 - [ ] URL shortener
@@ -57,6 +57,7 @@ List of project that I plan to create/interested to make.
 - [ ] File Sharing app
 - [ ] Pomodoro app
 - [ ] Exercise Tracker app
+- [ ] Diet Tracker app
 - [ ] Sleep Tracker app
 - [ ] Restaurant management app
 - [ ] A wiki app
@@ -72,6 +73,8 @@ List of project that I plan to create/interested to make.
 ## Networking & Computer Security projects
 - [x] Ip port scanner
 - [x] Network Scanner
+- [ ] Subdomain scanner
+- [ ] directory scanner
 - [ ] Iptables utility tools
 - [ ] System logging monitors
 - [ ] Simple Antivirus 
@@ -83,7 +86,7 @@ List of project that I plan to create/interested to make.
 - [ ] Network Dashboard
 - [ ] Image Steganography (+encryption)
 - [ ] C2 Server & agent
-- [ ] 
+
 
 ## AI Project
 - [ ] Expression analyser
@@ -93,6 +96,7 @@ List of project that I plan to create/interested to make.
 - [ ] Cryptocurrency prediction
 - [ ] Weather prediction app
 - [ ] Human Age prediction from picture
+- [ ] Rock, paper, scissor game with Machine Learning
 
 ## Bot
 - [ ] Discord + github webhook bot
